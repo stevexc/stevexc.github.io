@@ -1,4 +1,0 @@
---patch-module
-com.stevexc.git.stwiz=_
---add-reads
-com.stevexc.git.stwiz=ALL-UNNAMED
