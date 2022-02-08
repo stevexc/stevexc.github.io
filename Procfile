@@ -1,1 +1,1 @@
-web: java -jar target/stwiz.jar
+web: java -jar target/stwiz-1.0.jar
